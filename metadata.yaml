@@ -1,10 +1,13 @@
 _repo: Golgatalta-Roomaan-Historiallinen-romaani_57092
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Partala, I.
     gutenberg_agent_id: '49189'
     url: http://www.gutenberg.org/2009/agents/49189
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Heymann, Robert
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39179
     wikipedia: http://de.wikipedia.org/wiki/Robert_Heymann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57092#Golgatalta-Roomaan-Historiallinen-romaani
 gutenberg_issued: '2018-05-05'
 gutenberg_type: Text
 identifiers:
